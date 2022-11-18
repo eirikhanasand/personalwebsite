@@ -1,0 +1,23 @@
+.card-title{
+    text-transform: uppercase;
+}
+
+.card-content-list label{
+  color: green;
+  font-size: 20px;
+  width:4em;
+}
+nav{
+  background-color: black;
+  color: red;
+}
+nav .nav-wrapper{
+  width: 80%;
+  margin: auto;
+}
+.page-footer{
+  background-color: black;
+}
+.card.blink{
+  background-color: black !important;
+}
