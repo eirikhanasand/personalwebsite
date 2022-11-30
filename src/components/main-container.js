@@ -24,7 +24,7 @@ export default class MainContainer extends Component {
         <div className="row">
           <div className="col s12">
             <div className="section">
-              <Image url={'../../public/friendskeepsecrets.jpg'} alt={'friendskeepsecrets'} />
+              <h3 className="white-text">For the future...</h3>
             </div>
           </div>
         </div>
