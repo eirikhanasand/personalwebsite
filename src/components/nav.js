@@ -6,7 +6,7 @@ export default class Nav extends Component {
     return (
       <nav>
           <div className="nav-wrapper">
-            <a href="/" className="brand-logo">EIRIK HANASAND</a>
+            <a href="/" className="brand-logo">SECRET HOODIE</a>
             <ul id="nav-mobile" className="right hide-on-med-and-down">
               <li><a href="/">HOME</a></li>
               <li><a href="/second">SECOND</a></li>

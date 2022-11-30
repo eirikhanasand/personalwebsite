@@ -8,7 +8,7 @@ export default class Footer extends Component {
                 <div className="container">
                   <div className="row">
                     <div className="col l6 s12">
-                      <h5 className="white-text">Thanks for visiting my personal website!</h5>
+                      <h5 className="white-text">Thanks for visiting Secret Hoodie!</h5>
                       <p className="grey-text text-lighten-4">Sometime I might put my social media here.</p>
                     </div>
                     <div className="col l4 offset-l2 s12">
@@ -24,7 +24,7 @@ export default class Footer extends Component {
                 </div>
                 <div className="footer-copyright">
                   <div className="container">
-                  © 2022 Eirik Hanasand. All rights reserved.
+                  © 2022 Secret Hoodie. All rights reserved.
                   <a className="grey-text text-lighten-4 right" href="#!">WIP bottom right</a>
                   </div>
                 </div>

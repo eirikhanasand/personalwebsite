@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import _ from 'lodash';
 import Card from './card';
 
-
-
 export default class MainContainer extends Component {
   constructor(){
     super();
@@ -26,7 +24,7 @@ export default class MainContainer extends Component {
         <div className="row">
           <div className="col s12">
             <div className="section">
-              <h3 className="header">Basic today. Incredible tomorrow.</h3>
+              <Image url={'../../public/friendskeepsecrets.jpg'} alt={'friendskeepsecrets'} />
             </div>
           </div>
         </div>
